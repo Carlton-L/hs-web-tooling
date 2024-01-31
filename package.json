@@ -1,0 +1,15 @@
+{
+  "name": "hs-web-tooling-003",
+  "version": "1.0.0",
+  "description": "Class 003",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "hs-web-tooling"
+  },
+  "author": "Carlton Lindsay",
+  "license": "ISC"
+}
